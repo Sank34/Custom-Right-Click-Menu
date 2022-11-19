@@ -1,9 +1,3 @@
-# Custom-Right-Click-Menu
-### Thanks for using my project!
-
-# What is a contextmenu or a custom-right-click-menu?
-### A contextmenu is the menu that it is displayed when the "right-click" event happens.
-
 # Features
 <ul>
 <li> Easy to customise - You can select colors, edit the options directly from the css/html root easy! </li>
