@@ -15,8 +15,8 @@
 </li>
 </ul>
 <hr>
-# How to use it?
-## To use the context-menu and customise it, you have to modify the options. The code comes with some examples you can use:
+<h1> How to use it?</h1>
+<p>To use the context-menu and customise it, you have to modify the options. The code comes with some examples you can use: </p>
 ```html
     <a href="#" onclick="redirect('https://scienceturtles.com')">
                 <img src="https://scienceturtles.com/assests/img/pfp.png" class="img" /> ScienceTurtles <img src="assets/img/arrowcircleright2.svg" alt="arrow" id="arrow">
