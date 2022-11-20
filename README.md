@@ -12,7 +12,7 @@
 <h1> How to use it?</h1>
 <p>To use the context-menu and customise it, you have to modify the options. The code comes with some examples you can use: </p>
 <pre>
-    It uses anchor tags(<a>) in order to make it easier to work. 
+    It uses anchor tags in order to make it easier to work. 
         - The anchor tag contains: - href rule, you can use it for redirects
                                    - onclick: here you can make a function in cmenu.min.js and execute it by putting it on the onclick rule!
                                    - the img tags: first one is the img that it's displayed in the left, the second one is the img tag containing the svg for the redirect option
