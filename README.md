@@ -5,7 +5,7 @@
 </li>
 <li> Easy to use
 </li> 
-<li> ...and we offer support for ti! - this means that you can contact us on discord or on our website to get help with the problem you have with this repo!
+<li> ...and we offer support for it! - this means that you can contact us on discord or on our website to get help with the problem you have with this repo!
 </li>
 </ul>
 <hr>
